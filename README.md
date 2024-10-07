@@ -16,7 +16,7 @@ Dr. Seyed Abolfazl Valizadeh
 
 ## Programming labs videos and codes
 
-| Contents                                                                                             | Videos link        | Codes link        |
-| ---------------------------------------------------------------------------------------------------- | ------------------ | ------------------|
-| [Saturday Classes]| [Link](https://drive.google.com/drive/folders/1_uoWJxd9ZDCRnCW6i3TwKb_xH1jigodx?usp=sharing) |  |
+| Contents                                                                                             | Videos links       | Codes and Notebooks links       |
+| ---------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------|
+| [Saturday Classes]| [Link](https://drive.google.com/drive/folders/1_uoWJxd9ZDCRnCW6i3TwKb_xH1jigodx?usp=sharing) | [link](https://drive.google.com/drive/folders/1T4uc0WlxkjbUKiJ1O7ZgZ49j4pwYbNwF?usp=sharing)|
 | [Tuesday Classes]| [Link](#) | [Link](#) |
