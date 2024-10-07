@@ -18,4 +18,4 @@ Dr. Seyed Abolfazl Valizadeh
 | Content                                                                                              | Video link        | Code link        |
 | ---------------------------------------------------------------------------------------------------- | ----------------- | -----------------|
 | [First Session]| |  |
-| [Second Session]| [Link](https://drive.google.com/file/d/1IB0vWqxlxhzdI_fh7oJfeE6CjrlInVYr/view?usp=sharing) | [Link](https://github.com/AliSoleimani2001/Introduction_To_AI_Class/blob/main/session1.py) |
+| [Second Session]| [Link](#) | [Link](#) |
