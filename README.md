@@ -1,4 +1,4 @@
-# statistics-and-probability_SBU
+# statistics and probability Course Fall 2024
 
 ## Introduction
 
