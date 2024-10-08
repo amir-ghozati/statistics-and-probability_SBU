@@ -13,6 +13,7 @@ Dr. Seyed Abolfazl Valizadeh
 - [Amirhossein Izadi](https://github.com/amirhossein-izadi)
 - [Amirhossein Ghozati](https://github.com/amir-ghozati)
 - [Rahman Izadi](https://github.com/rahmanizadi)
+- [Melina Zarei](https://github.com/mlinoro)
 
 ## Programming labs videos and codes
 
