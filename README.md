@@ -20,4 +20,4 @@ Dr. Seyed Abolfazl Valizadeh
 | Contents                                                                                             | Videos links       | Codes and Notebooks links       |
 | ---------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------|
 | [Saturday Classes]| [Link](https://drive.google.com/drive/folders/1_uoWJxd9ZDCRnCW6i3TwKb_xH1jigodx?usp=sharing) | [link](https://drive.google.com/drive/folders/1T4uc0WlxkjbUKiJ1O7ZgZ49j4pwYbNwF?usp=sharing)|
-| [Tuesday Classes]| [Link](https://drive.google.com/file/d/1IjwExi1h7GBFa40tBdSgQIcCIuubs1K7/view?usp=sharing) | [Link](https://t.me/c/2266174810/114) |
+| [Tuesday Classes]| [Link](https://drive.google.com/drive/folders/1Cmv4rNRYRa-E4Aa4fG_pAnjqTcgiIM2w?usp=sharing) | [Link](https://drive.google.com/drive/folders/1Lv1pF1NWnyqNh8lJeIFWA_f3AC5VTy6w?usp=sharing) |
